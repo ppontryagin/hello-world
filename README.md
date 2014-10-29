@@ -6,3 +6,5 @@ hello-world
   This is a first get repository.
 
   I've started to use agile, JIRA and git.
+
+Bye
