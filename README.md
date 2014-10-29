@@ -1,8 +1,8 @@
 hello-world
 ===========
 
-first project
+  first project
 
-This is a first get repository.
+  This is a first get repository.
 
-I've started to use agile, JIRA and git.
+  I've started to use agile, JIRA and git.
